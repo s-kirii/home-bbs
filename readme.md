@@ -5,4 +5,7 @@
       - Flask-SQLAlchemy==2.3.2
       - Jinja2==2.10
       - SQLAlchemy==1.2.15
-      - sqlite3
+      - pysqlite3
+  - Mac OS前提
+# 起動方法
+sh ./app/run.sh
