@@ -1,0 +1,9 @@
+name: home-bbs
+channels:
+  - conda-forge
+dependencies:
+  - Flask==1.0.2
+  - Flask-SQLAlchemy==2.3.2
+  - Jinja2==2.10
+  - SQLAlchemy==1.2.15
+  - sqlite3
